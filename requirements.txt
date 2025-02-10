@@ -1,4 +1,4 @@
-flask==2.3.2         # Flask framework
-pytest               # For testing
-pytest-mock          # To use the `mocker` fixture
-Werkzeug>=2.2.0      # Ensure compatibility with Flask
+flask==2.3.2
+pytest
+pytest-mock
+Werkzeug==2.2.3
