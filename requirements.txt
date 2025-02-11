@@ -2,3 +2,4 @@ flask==2.3.2
 pytest
 pytest-mock
 Werkzeug==2.2.3
+markupsafe
