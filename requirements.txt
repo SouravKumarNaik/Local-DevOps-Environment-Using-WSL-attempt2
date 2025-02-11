@@ -3,3 +3,4 @@ pytest
 pytest-mock
 Werkzeug==2.2.3
 markupsafe
+click
