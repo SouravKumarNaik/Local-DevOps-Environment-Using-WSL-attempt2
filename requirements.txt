@@ -5,3 +5,4 @@ Werkzeug==2.2.3
 markupsafe
 click
 blinker
+jinja2
